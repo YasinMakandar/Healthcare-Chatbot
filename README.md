@@ -13,7 +13,7 @@ accessibility to medical knowledge through medical chatbots
 Clone the project
 
 ```bash
-  git clone https://github.com/robinsingh051/Healthcare-chatbot
+  gh repo clone YasinMakandar/Healthcare-Chatbot
 ```
 
 Go to the project directory
@@ -63,7 +63,6 @@ open terminal in this directory and run the following command to start flask ser
 
 ## Team
 
-- [Robin Singh](https://github.com/robinsingh051)
-- [Sanjana Pradhan](https://github.com/Sanjana27-11)
-- [Prithvi Vasanth](https://github.com/prithvivasanth)
+- [Yasin Makandar](https://github.com/YasinMakandar)
+- [JaheerAhmad](https://github.com/ZAHEERAHMAD-07)
 
